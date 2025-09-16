@@ -7,7 +7,7 @@
     ],
     "dependencies": {
         "@types/node": "*",
-        "stylelint": "10 - 15"
+        "stylelint": "16.1.0"
     },
     "devDependencies": {
         "@types/gulp": "*",
