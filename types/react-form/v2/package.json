@@ -6,7 +6,7 @@
         "https://github.com/react-tools/react-form"
     ],
     "dependencies": {
-        "@types/react": "^16"
+        "@types/react": "^19.1.8"
     },
     "devDependencies": {
         "@types/react-form": "workspace:."
