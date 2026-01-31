@@ -13,7 +13,7 @@
         "@types/data-api-client": "*",
         "@types/jsonwebtoken": "*",
         "@types/memcached": "*",
-        "firebase-admin": "^12.0.0",
+        "firebase-admin": "^13.0.0",
         "mysql2": "^3.9.8"
     },
     "devDependencies": {
