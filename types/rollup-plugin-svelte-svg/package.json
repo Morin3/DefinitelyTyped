@@ -8,7 +8,7 @@
     "dependencies": {
         "@types/svgo": "2",
         "rollup": "^2",
-        "svelte": "^3"
+        "svelte": "^4.2.19"
     },
     "devDependencies": {
         "@types/rollup-plugin-svelte-svg": "workspace:."
