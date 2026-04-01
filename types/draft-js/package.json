@@ -7,7 +7,7 @@
     ],
     "dependencies": {
         "@types/react": "*",
-        "immutable": "~3.7.4"
+        "immutable": "~3.8.3"
     },
     "devDependencies": {
         "@types/draft-js": "workspace:."
