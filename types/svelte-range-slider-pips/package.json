@@ -6,7 +6,7 @@
         "https://github.com/simeydotme/svelte-range-slider-pips"
     ],
     "dependencies": {
-        "svelte": "^3.0.0"
+        "svelte": "^4.2.19"
     },
     "devDependencies": {
         "@types/svelte-range-slider-pips": "workspace:."
