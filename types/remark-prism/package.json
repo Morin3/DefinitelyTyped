@@ -7,7 +7,7 @@
     ],
     "dependencies": {
         "@types/mdast": "*",
-        "remark": "^14.0.2",
+        "remark": "^15.0.0",
         "unified": "^10.0.0"
     },
     "devDependencies": {
