@@ -10,7 +10,7 @@
         "@types/node": "*",
         "@types/react": "*",
         "@types/react-dom": "*",
-        "next": "^14.1.1",
+        "next": "^15.5.10",
         "workbox-build": "^7.1.0"
     },
     "devDependencies": {
